@@ -35,6 +35,7 @@ Serial #: 04:00:00:00:00:01:15:4b:5a:c3:94
 Thumbprint: b1:bc:96:8b:d4:f4:9d:62:2a:a8:9a:81:f2:15:01:52:a4:1d:82:9c
 
 Link-1: https://github.com/thuedientu/ssl/raw/main/Root-R1-GlobalSign%20Root%20R1.crt
+
 Link-2: https://secure.globalsign.net/cacert/Root-R1.crt
 
 
